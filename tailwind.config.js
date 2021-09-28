@@ -5,6 +5,12 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors:{
+        piel:"#EEE7DE",
+        madera:"#554133",
+        tomate:"#C89670",
+        oceano:"#57717F",
+      },
       screens: {
         'print': {'raw': 'print'},
         'notprint': {'raw': 'not print'},

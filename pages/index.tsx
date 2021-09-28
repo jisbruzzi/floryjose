@@ -7,12 +7,29 @@ interface HomeProps {
   main: GrayMatterFile<string>,
 }
 
+function Hero(){
+  return <div className="relative">
+    <img src="assets/novios.jpg" className="w-full rounded-t-lg"/>
+    <div className="absolute top-0 w-full flex">
+      <div className="w-min mx-auto whitespace-nowrap  rounded-md bg-opacity-60 bg-tomate  text-white m-8 
+      font-serif
+      p-1 md:p-4
+      text-2xl md:text-6xl ">
+        ¡Nos casamos!
+      </div>
+    </div>
+  </div>
+}
+
 export default function Homepage(props: HomeProps) {
-  return <div className="mx-auto bg-white">
-    <div
-    className="prose  my-8 prose-compact notprint:prose-weaker print:my-2 print:prose-super-compact print:prose-bluedots"
+  return <div className="mx-auto container">
+    <div className="m-4 mt-8 bg-piel rounded-lg shadow-lg">
+      <Hero/>
+      <div
+      className="prose m-8 prose-compact notprint:prose-weaker print:my-2 print:prose-super-compact print:prose-bluedots"
       dangerouslySetInnerHTML={{ __html: props.main.content }}
-    />
+      />
+    </div>
   </div>
 }
 
