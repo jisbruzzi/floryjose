@@ -36,9 +36,18 @@ export default function Homepage(props: HomeProps) {
   <div className="absolute sm:right-0 -right-12">
     <Foliage/>
   </div>
-  <div className="mx-auto container max-w-screen-sm">
+  <div className="mx-auto container max-w-screen-sm font-baskerville">
+    {name && <div className="text-center text-md font-bold uppercase m-2">
+      {name}:
+    </div>}
+    <div className="text-center text-3xl m-2">
+      Flor y José
+    </div>
+    <div className="text-center text-md m-2 text-4xl font-pinyon">
+      {name?"Te invitan a su casamiento":"Nos casamos"}
+    </div>
     <div
-      className="prose m-8 prose-compact font-baskerville"
+      className="prose m-8 prose-compact "
       dangerouslySetInnerHTML={{ __html: props.main.content }}
       />
   </div>
