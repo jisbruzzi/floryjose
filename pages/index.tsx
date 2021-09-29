@@ -1,5 +1,5 @@
 import type { GrayMatterFile } from "gray-matter"
-import React, { PropsWithChildren, useReducer } from "react"
+import React, { PropsWithChildren, useEffect, useReducer, useState } from "react"
 import { getBySlug, getPortfolioItems, getTech } from "../lib/landingParts"
 import markdownToHtml from "../lib/markdownToHtml"
 
@@ -22,13 +22,19 @@ function Hero(){
 }
 
 export default function Homepage(props: HomeProps) {
+  const [name,setName]=useState<string|null>(null);
+  useEffect(()=>{
+    setName(new URLSearchParams(window.location.search).get("n"));
+  },[])
   return <div className="mx-auto container">
     <div className="m-4 mt-8 bg-piel rounded-lg shadow-lg">
       <Hero/>
+      {name && <p>{name}, ¡estás invitado a nuestro casamiento!</p>}
       <div
       className="prose m-8 prose-compact notprint:prose-weaker print:my-2 print:prose-super-compact print:prose-bluedots"
       dangerouslySetInnerHTML={{ __html: props.main.content }}
       />
+
     </div>
   </div>
 }
