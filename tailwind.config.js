@@ -22,6 +22,7 @@ module.exports = {
         sanchez:['Sanchez', ...defaultTheme.fontFamily.serif],
         merriweather:['Merriweather', ...defaultTheme.fontFamily.serif],
         montserrat:['Montserrat', ...defaultTheme.fontFamily.sans],
+        baskerville:['Libre Baskerville', ...defaultTheme.fontFamily.sans],
       },
       dropShadow:{
         strong:	"0 0 10px black"
