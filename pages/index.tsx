@@ -26,8 +26,8 @@ export default function Homepage(props: HomeProps) {
   useEffect(()=>{
     setName(new URLSearchParams(window.location.search).get("n"));
   },[])
-  return <div className="mx-auto container">
-    <div className="m-4 mt-8 bg-piel rounded-lg shadow-lg">
+  return <div className="mx-auto container max-w-screen-lg">
+    <div className="m-4 mt-8 bg-piel rounded-lg shadow-lg w-">
       <Hero/>
       {name && <p>{name}, ¡estás invitado a nuestro casamiento!</p>}
       <div
