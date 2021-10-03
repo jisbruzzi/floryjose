@@ -10,7 +10,7 @@ interface HomeProps {
   main: GrayMatterFile<string>,
 }
 function Foliage(){
-  return <div>
+  return <div className="-z-10">
     <Foliage1 color="#554133"/>
     <div className="-mt-8">
       <Foliage2 color="#C89670"/>
@@ -30,13 +30,7 @@ export default function Homepage(props: HomeProps) {
     setName(new URLSearchParams(window.location.search).get("n"));
   },[])
   return <>
-  <div className="absolute sm:left-0 -left-8">
-    <Foliage/>
-  </div>
-  <div className="absolute sm:right-0 -right-12">
-    <Foliage/>
-  </div>
-  <div className="mx-auto container max-w-screen-sm font-baskerville">
+  <div className="mx-auto container max-w-screen-sm font-baskerville z-50">
     {name && <div className="text-center text-md font-bold uppercase m-2">
       {name}:
     </div>}
@@ -47,9 +41,15 @@ export default function Homepage(props: HomeProps) {
       {name?"Te invitan a su casamiento":"Nos casamos"}
     </div>
     <div
-      className="prose m-8 prose-compact "
+      className="prose m-8 prose-compact"
       dangerouslySetInnerHTML={{ __html: props.main.content }}
       />
+  </div>
+  <div className="absolute sm:left-0 -left-8 top-10 -z-10 opacity-50 md:opacity-100">
+    <Foliage/>
+  </div>
+  <div className="absolute sm:right-0 -right-12 top-10 -z-10 opacity-50 md:opacity-100">
+    <Foliage/>
   </div>
   </>
 }
