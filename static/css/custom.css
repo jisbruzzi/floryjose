@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Sanchez|Merriweather|Montserrat');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+
+#site-head {
+    color: black;
+}
+.blog-title {
+    font-family: 'Libre Baskerville';
+}
+
+.blog-description{
+    font-family: 'Pinyon Script';
+    font-size: 4rem;
+}
+
+.btn.site-menu{
+    background-color: #57717F;
+}
+
+.vertical{
+    vertical-align: top;
+}
+
+section, h1, h2, h3, h4, h5 {
+    font-family: 'Libre Baskerville';
+}
+
+.post-title{
+    text-align: center;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+    row-gap:  5px;
+    margin: 1em 0;
+}
+@media (max-width: 768px) { 
+    .grid-container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+    }   
+}
+
+@media (min-width: 768px) { 
+    #site-head-content {
+        margin-top:8rem;
+
+    }
+}
