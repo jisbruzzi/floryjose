@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 ### La misa
-La misa será a las 10:30hs en el [Convento Santo Domingo](https://www.op.org.ar/dominicosba/) (Belgrano y Defensa)
+La misa será a las **10:30hs** en el [Convento Santo Domingo](https://www.op.org.ar/dominicosba/) (Belgrano y Defensa)
 
 {{< cellgrid >}}
 
@@ -16,7 +16,7 @@ La misa será a las 10:30hs en el [Convento Santo Domingo](https://www.op.org.ar
 {{< /cellgrid >}}
 
 ### La fiesta
-La fiesta iniciará a las 13 en la quinta [Álamos de Cañuelas](http://www.alamosdecanuelas.com.ar/En/) (ruta 3 km 51,5)
+La fiesta iniciará a las **13:00hs** en la quinta [Álamos de Cañuelas](http://www.alamosdecanuelas.com.ar/En/) (ruta 3 km 51,5)
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.925450507342!2d-58.72184304906891!3d-34.93340658242766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bd202bcf94d47d%3A0x1645e89def0c507!2sALAMOS%20DE%20CA%C3%91UELAS!5e0!3m2!1sen!2sar!4v1633963952515!5m2!1sen!2sar" width="347" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
