@@ -1,6 +1,7 @@
 ---
-title: "Contact"
+title: "Confirmación y Regalo"
 weight: 4
+header_menu: true
 ---
 
 {{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
