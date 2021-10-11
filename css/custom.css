@@ -11,7 +11,7 @@
 
 .blog-description{
     font-family: 'Pinyon Script';
-    font-size: 4rem;
+    font-size: 10rem;
 }
 
 .btn.site-menu{
@@ -49,4 +49,16 @@ section, h1, h2, h3, h4, h5 {
         margin-top:8rem;
 
     }
+}
+
+.post-holder.odd {
+    background-color: #C89670;
+}
+
+a.fn-item.active{
+    color: #554133
+}
+
+a.btn:hover{
+    background-color: #554133
 }
