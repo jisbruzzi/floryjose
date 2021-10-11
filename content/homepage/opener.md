@@ -1,10 +1,23 @@
 ---
-title: "Welcome"
+title: "Dónde y cuándo"
 weight: 1
+header_menu: true
 ---
+### La misa
+La misa será a las 10:30hs en el [Convento Santo Domingo](https://www.op.org.ar/dominicosba/) (Belgrano y Defensa)
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+{{< cellgrid >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+{{< figure src="images/santodomingo.jpg" height="400" >}}
+<div style="margin: auto;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.6602706375093!2d-58.37390988464472!3d-34.612751265483425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccad52d1cd9df%3A0xa97592e9cd43434c!2sConvento%20Santo%20Domingo%20-%20Bas%C3%ADlica%20Nuestra%20Se%C3%B1ora%20del%20Rosario!5e0!3m2!1sen!2sar!4v1633963210101!5m2!1sen!2sar" width="347" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+{{< /cellgrid >}}
+
+### La fiesta
+La fiesta iniciará a las 13 en la quinta [Álamos de Cañuelas](http://www.alamosdecanuelas.com.ar/En/) (ruta 3 km 51,5)
+
+{{< rawhtml >}}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.925450507342!2d-58.72184304906891!3d-34.93340658242766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bd202bcf94d47d%3A0x1645e89def0c507!2sALAMOS%20DE%20CA%C3%91UELAS!5e0!3m2!1sen!2sar!4v1633963952515!5m2!1sen!2sar" width="347" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+{{< /rawhtml >}}
