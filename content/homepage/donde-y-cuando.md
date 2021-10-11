@@ -9,6 +9,8 @@ La misa será el **20 de noviembre** a las **10:30hs** en el [Convento Santo Dom
 
 **Protocolo COVID-19 en la misa:** Distanciamiento social y uso de barbijo.
 
+La ceremonia se transmitirá en vivo. En [floryjose.com.ar/vivo](./vivo) figurará el link a la transmisión.
+
 {{< cellgrid >}}
 
 {{< figure src="images/santodomingo.jpg" height="400" >}}
