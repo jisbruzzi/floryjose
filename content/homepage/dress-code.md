@@ -9,7 +9,7 @@ Queremos que la fiesta tenga un aire más bien descontracturado, les pedimos que
 - Camisa
 - Evitar zapatillas deportivas
 - Evitar corbata
-- Puede ser jeans
+- Pueden usar jeans
 - No es necesario saco, pero traigan algo para abrigarse a la noche
 
 Las fotos a continuación son guía (no cumplen algunos criterios listados arriba)
