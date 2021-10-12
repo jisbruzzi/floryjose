@@ -8,6 +8,7 @@ header_menu: true
 Les pedimos nos confirmen indicando:
 1. Nombre y apellido de quienes asisten
 2. Restricciones allimenticias que puedan tener
+
 Se debe realizar antes del {{<icon class="fa fa-calendar">}} **6 de octubre inclusive** Por whatsapp a José Ignacio: {{<icon class="fa fa-whatsapp">}}&nbsp;[+541130070139](tel:+541130070139).
 
 ### Regalo

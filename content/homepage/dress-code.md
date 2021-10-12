@@ -3,7 +3,7 @@ title: "Código de vestimenta"
 weight: 3
 header_menu: true
 ---
-Queremos que la fiesta tenga un aire más bien descontracturado, nos interesa evitar la ostentación y la extravagancia con lo cual les pedimos que **eviten vestirse con más formlaidad de lo que indicamos**. La vestimenta será **elegante sport**. A continuación dejamos algunas fotos de referencia.
+Queremos que la fiesta tenga un aire más bien descontracturado, les pedimos que **eviten** dentro de lo posible vestirse con más formalidad de lo que indicamos. La vestimenta será **elegante sport**. A continuación dejamos algunas fotos de referencia.
 
 ### Masculino
 - Camisa
