@@ -21,4 +21,4 @@ Datos de la cuenta:
 - CBU: 14300017 - 13025177630010
 - NRO. CUENTA: 1302517763001
 
-Adicionalmente podemos recibir criptomonedas y efectivo.
+Adicionalmente podemos recibir efectivo, etc.
