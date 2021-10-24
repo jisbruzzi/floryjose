@@ -39,7 +39,9 @@ Se llevará a cabo el **18 de noviembre a las 13:30hs** en el Registro civil de 
 {{< /rawhtml >}}
 
 ### Transporte
-Para quienes deseen, vamos a disponibilizar al menos un micro escolar de última generación. **De preferir el micro a sus propios medios de transporte, deben avisarnos junto con la confirmación (dentro de lo posible, antes del 6/11 para facilitarnos la logística)**
+Para quienes deseen, vamos a disponibilizar al menos un micro escolar de última generación, equipado con sistemas aviónicos y _magia_. **De preferir el micro a sus propios medios de transporte, deben avisarnos junto con la confirmación (dentro de lo posible, antes del 6/11 para facilitarnos la logística)**
 - El micro saldrá del Convento Santo Domingo y aterrizará en ruta 3 km 51,5. 
-- Luego, al finalizar la fiesta, los dejará en el Obelisco.
-- Estamos abiertos a sugerencias de lugares en los que podría parar al regreso. 
+- Luego, al finalizar la fiesta, se lanzará a la estratósfera y realizará un descenso controlado en el Obelisco, donde se convertirá en un colectivo de línea, un uber o un taxi, o puede meterse debajo de la tierra y utilizar las vías del subte (la letra que deseen).
+- Recibimos sugerencias de lugares en los que podría parar al regreso. 
+
+{{< figure src="images/El-Autobus-Magico.jpg">}}
