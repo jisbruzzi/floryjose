@@ -8,6 +8,7 @@ header_menu: true
 Les pedimos nos confirmen indicando:
 1. Nombre y apellido de quienes asisten
 2. Restricciones allimenticias que puedan tener
+3. Si prefieren o no viajar en micro
 
 Se debe realizar antes del {{<icon class="fa fa-calendar">}} **6 de Noviembre inclusive** Por whatsapp a José Ignacio: {{<icon class="fa fa-whatsapp">}}&nbsp;[+541130070139](tel:+541130070139).
 
@@ -21,4 +22,4 @@ Datos de la cuenta:
 - CBU: 14300017 - 13025177630010
 - NRO. CUENTA: 1302517763001
 
-Adicionalmente podemos recibir criptomonedas y efectivo.
+Adicionalmente podemos recibir efectivo, etc.
