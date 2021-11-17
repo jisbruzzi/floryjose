@@ -32,7 +32,7 @@ La fiesta iniciará a las **13:00hs** en la quinta [Álamos de Cañuelas](http:/
 ### Civil
 **Nuevo: cambió el horario del civil.**
 
-Se llevará a cabo el **18 de noviembre a las ~~12:30hs~~ 13:00hs** en el Registro civil de Villa Domínico. (Av. Manuel Belgrano 4441)
+Se llevará a cabo el **18 de noviembre a las ~~12:30hs~~ ~~13:00hs~~ 13:30hs** en el Registro civil de Villa Domínico. (Av. Manuel Belgrano 4441)
 
 **Protocolo COVID-19 en el civil:** Sólo pueden presenciar el trámite civil novios y testigos, los demás deben esperar afuera.
 
